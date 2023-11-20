@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(133, 158, 159);
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+th{
+    background-color: rgb(84, 96, 166);
+}
+th,td{
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.input{
+    padding: 5px;
+}
+.input label{
+    display: inline-block;
+    width: 100px;
+}
